@@ -2,7 +2,7 @@
 
 #### Project Description
 
-The quiz application will contain questions followed by a total score shown at the end of the quiz. The score will increase based on the correct answers given. Initially, there are only three questions but will increase the questions when you get all correct answer.
+The Quiz Game is an engaging and interactive application designed to challenge players' knowledge across various topics in a fun and user-friendly environment. The game aims to provide an enjoyable experience for users of all ages, encouraging learning through gameplay.
 
 #### Wire Frames
 
@@ -12,32 +12,24 @@ The quiz application will contain questions followed by a total score shown at t
 
 #### User Stories
 
-1. At the beginning of the game the user will be greeted by the intro screen: “Welcome to My Fun Quiz Game!’.
-2. AAU, needs to click the start button to start the game.
-
-3. The questions will be generating randomly from array of questions.
-
-4. The user will see the questions one at the time.
-
-5. If the user got a correct answer next question will appear at the screen and the user continues.
-
-6. If the user got a wrong answer. It will notify the user to google it😅.
-
-7. There is initial three questions. And bragging captions will appear in the screen.
-
-8. As the game progresses, friends will count how many bragging captions they got.
-
-9. After 3 sets of questions, the game will end with the message: You perfected your bragging talent🎉😅
+- When the game begins, the user will see an intro screen that says, “Welcome to My Fun Quiz Game!”
+- The user will be prompted to enter their name.
+- The user must click the start button to begin the game.
+- Questions will be randomly generated from a pool of available questions.
+- The user will see one question at a time.
+- If the user answers correctly, the next question will appear on the screen, allowing them to continue.
+- After three sets of questions, the game will end, and the user will have the option to play again.
+- The user will be notified when the game ends.
+- The user will see the total number of correct and incorrect answers they provided during the game.
 
 #### MVP Goals
 
-- As a player, I want my game to recognize three wins in a row so that I know who won.
-- As a player, I would like to be informed when the game is over due to a tie.
-- As a player, I would like to know whose turn it is so that I don't have to keep track.
-- As a player, I would like to be informed with some indication when I mark a game box so that I know my selection worked.
-- As a player who requires assistive technologies, I would like accessibility features so that I'm not left out of enjoying the game.
-- As a player I would like to be able to restart the game after a win, loss or tie.
-- As a player, I want the UI to be engaging and out of the way so that I enjoy the experience of playing the game.\*\*
+- The game will confirm whether the user's answer is correct.
+- Each round will consist of three questions.
+- The user will have the option to restart the game after a win or loss.
+- The UI will be engaging yet unobtrusive, enhancing the overall gaming experience.
+
++++++++++++++++++++++++++++++++++=
 
 #### Stretch Goals
 
@@ -51,14 +43,14 @@ The quiz application will contain questions followed by a total score shown at t
 Do not neglect to plan, you will thank yourself later for being proactive!
 | Day | | Task | Blockers | Notes/ Thoughts |
 |------------|---|------------------------------------|----------|-----------------|
-|Monday | | Create and present proposal | | |
-| | | Create html, js, css files | | |
+|Monday | | Create and present proposal | |Finalize the proposal and submit thru github |
+|Tuesday & Wednesday| | Create html, js, css files | |document/buttons/color selection |
 |
-Tuesday | |Create basic scaffolding | |Cached/addEventListener/function - making sure DOM is accessible.
-|Wednesday||Add functionality |
-Thursday | |Add styling | |
-|Friday | | Finaliza MVP | | |
-|Saturday ||Work on stretch goals | |
-|Sunday | |Work on icebox items if applicable | | |
-|Thursday |Presentation Day! | |
+Thursday| |Create basic scaffolding | |Cached/addEventListener/function - making sure DOM is accessible.
+|Friday||Add functionality |
+| | |Add styling ||work on the first page
+|Saturday | | Finalize MVP | |project testing |
+| ||Work on stretch goals | |
+|Sunday - Wednesday | |Work on icebox items if applicable | | |
+|Thursday | |Presentation Day! |
 | | |
