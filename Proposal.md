@@ -6,9 +6,9 @@ The quiz application will contain questions followed by a total score shown at t
 
 #### Wire Frames
 
-![image](./Screenshot%202024-10-28%20at%204.47.10 PM.png)
+![image](./Screenshot%202024-10-29%20at%208.53.47 AM.png)
 
-![image](./Screenshot%202024-10-28%20at%208.50.42 PM.png)
+![image](./Screenshot%202024-10-29%20at%209.01.18 AM.png)
 
 #### User Stories
 
