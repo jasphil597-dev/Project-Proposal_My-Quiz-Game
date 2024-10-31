@@ -6,9 +6,8 @@ The Quiz Game is an engaging and interactive application designed to challenge p
 
 #### Wire Frames
 
-![image](./Screenshot%202024-10-29%20at%208.53.47 AM.png)
-
-![image](./Screenshot%202024-10-29%20at%209.01.18 AM.png)
+![image](./Screenshot%202024-10-31%20at%2010.15.35 AM.png)
+![image](./Screenshot%202024-10-31%20at%2010.10.28 AM.png)
 
 #### User Stories
 
