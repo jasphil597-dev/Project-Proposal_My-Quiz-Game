@@ -6,13 +6,13 @@ The Quiz Game is an engaging and interactive application designed to challenge p
 
 #### Wire Frames
 
-![image](./Screenshot%202024-10-31%20at%2010.15.35 AM.png)
-![image](./Screenshot%202024-10-31%20at%2010.10.28 AM.png)
+![image](./Screenshot%202024-11-05%20at%205.04.25 PM.png)
+![image](./Screenshot%202024-11-05%20at%205.14.36 PM.png)
+![image](./Screenshot%202024-11-06%20at%209.41.16 AM.png)
 
 #### User Stories
 
 - When the game begins, the user will see an intro screen that says, “Welcome to My Fun Quiz Game!”
-- The user will be prompted to enter their name.
 - The user must click the start button to begin the game.
 - Questions will be randomly generated from a pool of available questions.
 - The user will see one question at a time.
@@ -23,10 +23,12 @@ The Quiz Game is an engaging and interactive application designed to challenge p
 
 #### MVP Goals
 
-- The game will confirm whether the user's answer is correct.
-- Each round will consist of three questions.
-- The user will have the option to restart the game after a win or loss.
-- The UI will be engaging yet unobtrusive, enhancing the overall gaming experience.
+• Create an intro page to start the game.
+• Each round will consist of five questions.
+• Each question will have three possible answers.
+• The game will confirm whether the user's answer is correct or incorrect. A message with a GIF will appear on the screen for each outcome.
+• The user will have the option to restart the game after a win or loss.
+• The UI will be engaging but unobtrusive, enhancing the overall gaming experience.
 
 +++++++++++++++++++++++++++++++++=
 
